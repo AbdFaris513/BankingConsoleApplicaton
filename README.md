@@ -27,6 +27,7 @@ or not  New Account it use for SQL
 ![5](https://github.com/AbdFaris513/gussing_game/assets/106486197/6258681d-7430-4923-bd1e-e0c777886d51)
 
 * History of Transaction
+  
 ![6](https://github.com/AbdFaris513/gussing_game/assets/106486197/4a9f5e02-2fd5-44a3-8515-153c10a03d2b)
 
 
