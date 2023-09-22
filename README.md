@@ -31,6 +31,7 @@ or not  New Account it use for SQL
 ![6](https://github.com/AbdFaris513/gussing_game/assets/106486197/4a9f5e02-2fd5-44a3-8515-153c10a03d2b)
 
 
-Create a New Account
+* Create a New Account
+
 ![7](https://github.com/AbdFaris513/gussing_game/assets/106486197/5c89b624-ff5f-4ab4-a5c6-2b0866b8b5b7)
 
