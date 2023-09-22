@@ -9,13 +9,18 @@ if Already Create Accout you Select Existing Account
 or not  New Account it use for SQL
 
 After Entering Existing Account Click Withdraw
+
 ![2](https://github.com/AbdFaris513/gussing_game/assets/106486197/e8b94882-dec6-456a-b655-8d88816fed7e)
 
 Click in Deposit
+
 ![3](https://github.com/AbdFaris513/gussing_game/assets/106486197/1878e080-d8fd-4738-9f22-0a86eddf00ad)
 
+
 Check Balance
+
 ![4](https://github.com/AbdFaris513/gussing_game/assets/106486197/54699960-9394-47d7-8dd1-d29d68b3ccf6)
+
 
 Transfer money it is use for transfer money with other person
 ![5](https://github.com/AbdFaris513/gussing_game/assets/106486197/6258681d-7430-4923-bd1e-e0c777886d51)
